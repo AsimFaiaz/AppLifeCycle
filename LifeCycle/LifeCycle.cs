@@ -6,6 +6,8 @@
 using System;
 using System.IO;
 using System.Text.Json;
+using System.Threading; 
+#nullable enable   //Remove with proper guard
 
 public sealed class LifecycleRecord
 {
@@ -80,3 +82,4 @@ public sealed class AppLifecycleTracker : IDisposable
         OnExit("Dispose");
     }
 }
+
