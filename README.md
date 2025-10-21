@@ -20,9 +20,7 @@
 
   <h2>Developer Note</h2>
   <p>
-    This project is part of my series of standalone micro-libraries -- clean, 
-    focused, single-file tools that demonstrate elegant problem-solving and 
-    practical software design. Each project is 100% self-contained and open source.
+    This project is part of a broader cleanup of my personal playground -- where I’m organizing standalone mini-projects that demonstrate core programming concepts, clean design, and practical problem-solving in small, focused doses.
   </p>
 
   <h2>Key Features</h2>
